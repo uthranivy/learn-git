@@ -1,1 +1,1 @@
-This is test git.
+This is test git-branching.
